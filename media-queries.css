@@ -57,7 +57,7 @@
         color: white;
         border: none;
         border-radius: 3px;
-        padding: 11px 14px;
+        /* padding: 30px 14px; */
         text-decoration: none;
         font-size: small;
     }
@@ -107,7 +107,7 @@
         color: white;
         border: none;
         border-radius: 3px;
-        padding: 6px 10px;
+        /* padding: 6px 10px; */
         text-decoration: none;
     }
 }

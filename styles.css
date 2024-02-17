@@ -32,8 +32,9 @@
     color: white;
     border: none;
     border-radius: 3px;
-    padding: 9px 14px;
+    /* padding: 9px 14px; */
     text-decoration: none;
+    
 }
 .free-guide-btn:hover{
     background-color: darkslategrey;
