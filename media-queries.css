@@ -52,6 +52,18 @@
         font-weight: bold;
         
     }
+    .free-guide-btn{
+        background-color: rgb(51, 168, 156);
+        color: white;
+        border: none;
+        border-radius: 3px;
+        padding: 11px 14px;
+        text-decoration: none;
+        font-size: small;
+    }
+    .navbar-band img{
+        height: 28px;
+    }
     .guide-img{
         height: 100%;
         width: 50%;
