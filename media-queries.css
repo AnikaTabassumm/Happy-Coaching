@@ -1,0 +1,243 @@
+@media screen and (max-width: 1024px){
+    .blog .card-body h5{
+        font-weight: bold;
+        font-size: 20px;
+        color: rgb(51, 52, 97);
+    }
+    .intro-cont-left h1, .reviews h1, .blog h1, .free-guide h1{
+        color: rgb(51, 52, 97);
+        font-size: 45px;
+        font-weight: bold;
+        
+    }
+    .hero .container-left h1{
+        font-size: 55px;
+        color: rgb(51, 52, 97);
+        font-weight: bolder;
+    
+    
+    }
+    .h-cont{
+        padding-bottom: 4%;
+    }
+    .review-cont .rev1 p{
+        font-size: 22px;
+        color: rgb(88, 84, 112);
+    }
+    .free-guide .para1{
+        font-size: 18px;
+        color: rgb(88, 84, 112);
+    }
+    .free-guide .para2{
+        font-size: 14px;
+        color: rgb(88, 84, 112);
+    }
+
+}
+
+@media screen and (max-width:768px) {
+    .container-right img{
+        height: 100%;
+        width: 50%;
+        margin-top: -50px;
+        
+    }
+    .img{
+        z-index: -1;
+        justify-content: center;
+    }
+    .intro-cont-left h1, .reviews h1, .blog h1, .free-guide h1{
+        color: rgb(51, 52, 97);
+        font-size: 40px;
+        font-weight: bold;
+        
+    }
+    .guide-img{
+        height: 100%;
+        width: 50%;
+    }
+    .free-guide .symb{
+        background-color: rgb(51, 168, 156);
+        z-index: 1;
+        height: 103px;
+        width: 103px;
+        color: white;
+        border-radius: 50%;
+        align-items: center;
+        margin-left: 65%;
+    }
+    .b-head h1{
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+    .r-head h1{
+        padding-right: 40%;
+    }
+    .book img{
+        height: 100%;
+        width: 100%;
+        /* margin-top: -20px; */
+        margin-left: 10px;
+        border-bottom-right-radius: 30px;
+     
+    }
+    .book h1{
+        font-weight: bold;
+        color: rgb(51, 52, 97);
+        font-size: 25px;
+    }
+    .book p{
+        color: gray;
+        font-size: medium;
+    }
+    .free-guide-btn{
+        background-color: rgb(51, 168, 156);
+        color: white;
+        border: none;
+        border-radius: 3px;
+        padding: 6px 10px;
+        text-decoration: none;
+    }
+}
+
+@media screen and (max-width: 426px) {
+    .hero .container-left h1{
+        font-size: 40px;
+        color: rgb(51, 52, 97);
+        font-weight: bolder;
+    
+    }
+    .s1{
+        color: grey;
+        padding-top: 40px;
+        font-size: small;
+    }
+    .s2{
+        line-height: 25px;
+        font-size: medium;
+    }
+    .rate1 p{
+        margin-top: -10px;
+        font-size:x-small;
+    }
+    .container-right .rate{
+        z-index: 1;
+        background-color:white;
+        height:fit-content;
+        width: fit-content;   
+        margin-left: 5%; 
+        padding: 7px 4px;
+    }
+    .rate1 h4{
+        font-weight:bolder;
+        color: rgb(51, 52, 97);
+        font-size: large;
+    }
+    .r-head h1{
+        padding-right: 20%;
+    }
+    .img{
+        z-index: -1;
+        justify-content: center;
+        padding-left: 40px;
+    }
+    .container-right img{
+        height: 150%;
+        width: 80%;
+        margin-top: -50px;
+        
+    }
+    .container-left p, .container-left h1{
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+    .container-left a{
+        margin-left: 30px;
+    }
+    .intro-cont-left h1, .reviews h1, .blog h1, .free-guide h1{
+        color: rgb(51, 52, 97);
+        font-size: 32px;
+        font-weight: bold;
+        
+    }
+    .b-head h1{
+        padding-left: 45px;
+        padding-right: 45px;
+    }
+    .guide-img{
+        height: 200%;
+        width: 90%;
+    }
+    .book img{
+        height: 80%;
+        width: 80%;
+        /* margin-top: -20px; */
+        margin-left: 10px;
+        border-bottom-right-radius: 30px;
+    
+    }
+    .intro-cont-right p{
+        font-size: 16px;
+        color: rgb(70, 70, 70);
+    }
+    .intro-cont2 p{
+        font-size: 16px;
+        font-weight:400;
+        padding-right: 20px;
+    }
+}
+
+@media screen and (max-width: 376px) {
+    .r-head h1{
+    padding-right: 10%;
+    }
+    .intro-cont-left h1, .reviews h1, .blog h1, .free-guide h1{
+        color: rgb(51, 52, 97);
+        font-size: 26px;
+        font-weight: bold;
+        
+    }
+}
+
+@media screen and (max-width: 320px) {
+
+    .container-right img{
+        height: 200%;
+        width: 100%;
+        margin-top: -50px;
+        
+    }
+    .container-right .rate{
+        z-index: 1;
+        background-color:white;
+        height:fit-content;
+        width: fit-content;   
+        margin-left: 5%; 
+        padding: 6px 1px;
+    }
+    .intro-cont-left h1, .reviews h1, .blog h1, .free-guide h1{
+        color: rgb(51, 52, 97);
+        font-size: 25px;
+        font-weight: bold;
+        
+    }
+    .intro-cont-right p{
+        font-size: 14px;
+        color: rgb(70, 70, 70);
+    }
+    .intro-cont2 p{
+        font-size: 14px;
+        font-weight:400;
+        padding-right: 20px;
+    }
+    .r-head h1{
+        padding-right: 10%;
+    }
+    .blog .card-body p{
+        color: rgb(88, 84, 112);
+        font-size: small;
+    }
+    .reviews .card-body.p{
+        font-size: small;
+    }
+}
